@@ -12,3 +12,5 @@ for _url in url_set:
             print(f"{_url} is down!!")
     except:
         print(f"The url of {_url} is not good")
+    
+    
